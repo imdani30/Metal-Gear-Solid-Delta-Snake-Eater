@@ -1,0 +1,290 @@
+body {
+  background-image: url(); /* Ruta de la imagen de fondo */
+  background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+.Titulo {
+  font-size: 120px;
+  margin-bottom: 20px; /* Espacio entre cada conjunto de imagen y texto */
+  margin-left: 150px; /* Agrega px de espacio a la izquierda del elemento */
+  margin-right: 150px; /* Agrega px de espacio a la derecha del elemento */
+  background-color: #cddaff7c; /* Color de fondo de la página */
+  font-family: Arial, sans-serif; /* Tipo de fuente predeterminado */
+  text-align: center;
+}
+.logovideojuego{
+  padding: 10px; /* Tamaño máximo de la imagen */
+  width: 1500px; /* Ancho máximo del contenedor */
+  display: block; /* Asegura que la imagen se comporta como un bloque */
+  margin: 0 auto; /* Centra la imagen horizontalmente */
+}
+ .Menu {
+  font-size: 25px;
+  margin-top: 20px; /* Espacio entre cada conjunto de imagen y texto */
+  margin-left: 150px; /* Agrega px de espacio a la izquierda del elemento */
+  margin-right: 150px; /* Agrega px de espacio a la derecha del elemento */
+  font-family: Arial, sans-serif; /* Tipo de fuente predeterminado */
+  background-color: #cddaff7c; /* Color de fondo de la página */
+}
+.Inicio{
+  margin-left: 150px; /* Agrega px de espacio a la izquierda del elemento */
+  margin-right: 150px; /* Agrega px de espacio a la derecha del elemento */
+  font-family: Arial, sans-serif; /* Tipo de fuente predeterminado */
+  background-color: #cddaff7c; /* Color de fondo de la página */
+}
+.acerca{
+  margin-left: 150px; /* Agrega px de espacio a la izquierda del elemento */
+  margin-right: 150px; /* Agrega px de espacio a la derecha del elemento */
+  font-family: Arial, sans-serif; /* Tipo de fuente predeterminado */
+  margin-bottom: 20px; /* Espacio entre cada conjunto de imagen y texto */
+  background-color: #cddaff7c; /* Color de fondo de la página */
+}
+.container {
+  margin-left: 75px; /* Agrega px de espacio a la izquierda del elemento */
+  margin-right: 75px; /* Agrega px de espacio a la derecha del elemento */
+  width: 100%; /* Ancho máximo del contenedor */
+  margin-top: 20px;
+  overflow: hidden; /* Limpia los floats internos */
+  display: flex; /* Usa flexbox */
+  align-items: center; /* Centra verticalmente los elementos */
+}
+.image {
+    width: 200px /*Ancho deseado para la imagen*/
+}
+.text {
+    overflow: hidden; /* Evita que el texto flote alrededor de la imagen */
+    background-color: #cddaff7c; /* Color de fondo de la página */
+}
+/* Estilos CSS para la colocación de la imagen y el texto */
+.Elmundodeljuego{
+  margin-bottom: 20px; /* Espacio entre cada conjunto de imagen y texto */
+  margin-left: 150px; /* Agrega px de espacio a la izquierda del elemento */
+  margin-right: 150px; /* Agrega px de espacio a la derecha del elemento */
+  font-family: Arial, sans-serif; /* Tipo de fuente predeterminado */
+  text-align: center;
+}
+.contain {
+    margin-bottom: 50px; /* Espacio entre cada conjunto de imagen y texto */
+    text-align: center; /* Centra el texto */
+    font-family: Arial, sans-serif; /* Tipo de fuente predeterminado */
+}
+.Maps {
+  clear: both; /* Asegura que cada conjunto de imagen y texto esté debajo del anterior */
+  margin-bottom: 50px; /* Espacio entre cada conjunto de imagen y texto */
+}
+.Mapas {
+  display: inline-block; /* Hace que la imagen se comporte como un bloque en línea */
+  width: 1250px; /* Ajusta el tamaño de la imagen al contenedor */
+}
+.texto {
+  display: block; /* Hace que el texto sea un bloque */
+  margin-top: 50px; /* Espacio entre la imagen y el texto */
+}
+.Game {
+  margin-left: 150px; /* Agrega px de espacio a la izquierda del elemento */
+  margin-right: 150px; /* Agrega px de espacio a la derecha del elemento */
+  font-family: Arial, sans-serif; /* Tipo de fuente predeterminado */
+  background-color: #cddaff7c; /* Color de fondo de la página */
+}
+.Gameplay {
+  margin-left: 150px; /* Agrega px de espacio a la izquierda del elemento */
+  margin-right: 150px; /* Agrega px de espacio a la derecha del elemento */
+  text-align: center; /* Centra el texto */
+  font-family: Arial, sans-serif; /* Tipo de fuente predeterminado */
+  background-color: #cddaff7c; /* Color de fondo de la página */
+}
+.requisitos {
+  margin-left: 150px; /* Agrega px de espacio a la izquierda del elemento */
+  margin-right: 150px; /* Agrega px de espacio a la derecha del elemento */
+  font-family: Arial, sans-serif; /* Tipo de fuente predeterminado */
+  background-color: #cddaff7c; /* Color de fondo de la página */
+}
+.Contacto {
+  margin-left: 150px; /* Agrega px de espacio a la izquierda del elemento */
+  margin-right: 150px; /* Agrega px de espacio a la derecha del elemento */
+  font-family: Arial, sans-serif; /* Tipo de fuente predeterminado */
+  text-align: center; /* Centra el texto */
+  background-color: #cddaff7c; /* Color de fondo de la página */
+}
+.Derechos {
+  margin-left: 150px; /* Agrega px de espacio a la izquierda del elemento */
+  margin-right: 150px; /* Agrega px de espacio a la derecha del elemento */
+  font-family: Arial, sans-serif; /* Tipo de fuente predeterminado */
+  text-align: center; /* Centra el texto */
+  background-color: #ffffffa8; /* Color de fondo de la página */
+}
+/* Estilos CSS para la colocación de la imagen y el texto */
+.controls {
+  margin-bottom: 80px; /* Espacio entre cada conjunto de imagen y texto */
+  text-align: center; /* Centra el texto */
+}
+
+/* Estilos base para todas las pantallas */
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #ffffffa8;
+}
+
+/* Estilos base para todas las pantallas */
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #ffffffa8;
+}
+
+/* Media query para dispositivos con un ancho máximo de 1024px */
+@media only screen and (max-width: 1024px) {
+  .Titulo {
+    font-size: 80px; /* Cambia el tamaño del título */
+    margin-left: 50px; /* Ajusta el margen izquierdo */
+    margin-right: 50px; /* Ajusta el margen derecho */
+    text-align: center; /* Centra el texto */
+  }
+  
+  .Menu {
+    font-size: 24px; /* Cambia el tamaño del menú */
+    margin-left: 50px; /* Ajusta el margen izquierdo */
+    margin-right: 50px; /* Ajusta el margen derecho */
+    text-align: center; /* Centra el texto */
+  }
+
+  .Inicio, .acerca, .Game, .Gameplay, .requisitos, .Contacto, .Derechos {
+    margin-left: 50px; /* Ajusta el margen izquierdo */
+    margin-right: 50px; /* Ajusta el margen derecho */
+  }
+
+  .container {
+    margin-left: 25px; /* Ajusta el margen izquierdo */
+    margin-right: 25px; /* Ajusta el margen derecho */
+  }
+
+  .image {
+    width: 100%;
+    max-width: 250px; /* Tamaño máximo de la imagen en dispositivos móviles */
+  }
+
+  .Elmundodeljuego {
+    font-size: 22px; /* Cambia el tamaño del texto */
+    margin-left: 50px; /* Ajusta el margen izquierdo */
+    margin-right: 50px; /* Ajusta el margen derecho */
+  }
+
+  .contain {
+    margin-bottom: 40px; /* Espacio entre cada conjunto de imagen y texto */
+  }
+
+  .Mapas {
+    width: 100%;
+    max-width: 250px; /* Tamaño máximo de la imagen en dispositivos móviles */
+  }
+
+  .texto {
+    margin-top: 40px; /* Espacio entre la imagen y el texto */
+  }
+
+  .controls {
+    margin-bottom: 60px; /* Espacio entre cada conjunto de imagen y texto */
+  }
+}
+/* Media query para dispositivos con un ancho máximo de 768px */
+@media only screen and (max-width: 768px) {
+  .Titulo {
+    font-size: 60px; /* Cambia el tamaño del título */
+    margin-left: 30px; /* Ajusta el margen izquierdo */
+    margin-right: 30px; /* Ajusta el margen derecho */
+    text-align: center; /* Centra el texto */
+  }
+  
+  .Menu {
+    font-size: 20px; /* Cambia el tamaño del menú */
+    margin-left: 30px; /* Ajusta el margen izquierdo */
+    margin-right: 30px; /* Ajusta el margen derecho */
+    text-align: center; /* Centra el texto */
+  }
+
+  .Inicio, .acerca, .Game, .Gameplay, .requisitos, .Contacto, .Derechos {
+    margin-left: 30px; /* Ajusta el margen izquierdo */
+    margin-right: 30px; /* Ajusta el margen derecho */
+  }
+
+  .container {
+    margin-left: 15px; /* Ajusta el margen izquierdo */
+    margin-right: 15px; /* Ajusta el margen derecho */
+  }
+
+  .image {
+    width: 100%;
+    max-width: 200px; /* Tamaño máximo de la imagen en dispositivos móviles */
+  }
+
+  .Elmundodeljuego {
+    font-size: 20px; /* Cambia el tamaño del texto */
+    margin-left: 30px; /* Ajusta el margen izquierdo */
+    margin-right: 30px; /* Ajusta el margen derecho */
+  }
+
+  .contain {
+    margin-bottom: 30px; /* Espacio entre cada conjunto de imagen y texto */
+  }
+
+  .Mapas {
+    width: 100%;
+    max-width: 200px; /* Tamaño máximo de la imagen en dispositivos móviles */
+  }
+
+  .texto {
+    margin-top: 30px; /* Espacio entre la imagen y el texto */
+  }
+
+  .controls {
+    margin-bottom: 40px; /* Espacio entre cada conjunto de imagen y texto */
+  }
+}
+
+/* Media query para dispositivos con un ancho máximo de 480px */
+@media only screen and (max-width: 480px) {
+  .Titulo {
+    font-size: 40px; /* Cambia el tamaño del título */
+  }
+
+  .Menu {
+    font-size: 18px; /* Cambia el tamaño del menú */
+  }
+
+  .Inicio, .acerca, .Game, .Gameplay, .requisitos, .Contacto, .Derechos {
+    margin-left: 10px; /* Ajusta el margen izquierdo */
+    margin-right: 10px; /* Ajusta el margen derecho */
+  }
+
+  .container {
+    margin-left: 10px; /* Ajusta el margen izquierdo */
+    margin-right: 10px; /* Ajusta el margen derecho */
+  }
+
+  .image {
+    width: 100%;
+    max-width: 150px; /* Tamaño máximo de la imagen en dispositivos móviles */
+  }
+
+  .Elmundodeljuego {
+    font-size: 16px; /* Cambia el tamaño del texto */
+  }
+
+  .contain {
+    margin-bottom: 20px; /* Espacio entre cada conjunto de imagen y texto */
+  }
+
+  .Mapas {
+    width: 100%;
+    max-width: 150px; /* Tamaño máximo de la imagen en dispositivos móviles */
+  }
+
+  .texto {
+    margin-top: 20px; /* Espacio entre la imagen y el texto */
+  }
+
+  .controls {
+    margin-bottom: 30px; /* Espacio entre cada conjunto de imagen y texto */
+  }
+}
