@@ -141,6 +141,12 @@ body {
     margin-right: 50px; /* Ajusta el margen derecho */
     text-align: center; /* Centra el texto */
   }
+ .logovideojuego {
+    font-size: 80px; /* Cambia el tamaño del título */
+    margin-left: 50px; /* Ajusta el margen izquierdo */
+    margin-right: 50px; /* Ajusta el margen derecho */
+    text-align: center; /* Centra el texto */
+  }
   
   .Menu {
     font-size: 24px; /* Cambia el tamaño del menú */
