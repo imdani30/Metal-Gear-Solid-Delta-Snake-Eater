@@ -141,12 +141,6 @@ body {
     margin-right: 50px; /* Ajusta el margen derecho */
     text-align: center; /* Centra el texto */
   }
- .logovideojuego {
-    font-size: 80px; /* Cambia el tamaño del título */
-    margin-left: 50px; /* Ajusta el margen izquierdo */
-    margin-right: 50px; /* Ajusta el margen derecho */
-    text-align: center; /* Centra el texto */
-  }
   
   .Menu {
     font-size: 24px; /* Cambia el tamaño del menú */
@@ -202,10 +196,8 @@ body {
     text-align: center; /* Centra el texto */
   }
    .logovideojuego {
-    font-size: 80px; /* Cambia el tamaño del título */
-    margin-left: 50px; /* Ajusta el margen izquierdo */
-    margin-right: 50px; /* Ajusta el margen derecho */
-    text-align: center; /* Centra el texto */
+    margin-left: 25px; /* Ajusta el margen izquierdo */
+    margin-right: 25px; /* Ajusta el margen derecho */
   }
   .Menu {
     font-size: 20px; /* Cambia el tamaño del menú */
@@ -259,10 +251,8 @@ body {
     font-size: 40px; /* Cambia el tamaño del título */
   }
  .logovideojuego {
-    font-size: 80px; /* Cambia el tamaño del título */
-    margin-left: 50px; /* Ajusta el margen izquierdo */
-    margin-right: 50px; /* Ajusta el margen derecho */
-    text-align: center; /* Centra el texto */
+    margin-left: 25px; /* Ajusta el margen izquierdo */
+    margin-right: 25px; /* Ajusta el margen derecho */
   }
   .Menu {
     font-size: 18px; /* Cambia el tamaño del menú */
