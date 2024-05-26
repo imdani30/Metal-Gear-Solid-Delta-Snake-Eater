@@ -197,6 +197,7 @@ body {
   }
    .logovideojuego {
     width: 500px; /* Ancho máximo del contenedor */
+    padding: 10px; /* Tamaño máximo de la imagen */
   }
   .Menu {
     font-size: 20px; /* Cambia el tamaño del menú */
@@ -250,7 +251,8 @@ body {
     font-size: 40px; /* Cambia el tamaño del título */
   }
  .logovideojuego {
-    width: 200px; /* Ancho máximo del contenedor */
+   width: 200px; /* Ancho máximo del contenedor */
+   padding: 10px; /* Tamaño máximo de la imagen */
   }
   .Menu {
     font-size: 18px; /* Cambia el tamaño del menú */
