@@ -196,8 +196,8 @@ body {
     text-align: center; /* Centra el texto */
   }
    .logovideojuego {
-    width: 500px; /* Ancho máximo del contenedor */
     padding: 10px; /* Tamaño máximo de la imagen */
+    max-width: 500px; /* Tamaño máximo de la imagen en dispositivos móviles */
   }
   .Menu {
     font-size: 20px; /* Cambia el tamaño del menú */
@@ -251,7 +251,7 @@ body {
     font-size: 40px; /* Cambia el tamaño del título */
   }
  .logovideojuego {
-   width: 200px; /* Ancho máximo del contenedor */
+   max-width: 250px; /* Tamaño máximo de la imagen en dispositivos móviles */
    padding: 10px; /* Tamaño máximo de la imagen */
   }
   .Menu {
