@@ -250,7 +250,7 @@ body {
     font-size: 40px; /* Cambia el tamaño del título */
   }
  .logovideojuego {
-   max-width: 350px; /* Tamaño máximo de la imagen en dispositivos móviles */
+   max-width: 300px; /* Tamaño máximo de la imagen en dispositivos móviles */
   }
   .Menu {
     font-size: 18px; /* Cambia el tamaño del menú */
