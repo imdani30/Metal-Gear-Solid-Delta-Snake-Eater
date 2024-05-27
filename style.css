@@ -196,7 +196,7 @@ body {
     text-align: center; /* Centra el texto */
   }
    .logovideojuego {
-    max-width: 500px; /* Tamaño máximo de la imagen en dispositivos móviles */
+    max-width: 400px; /* Tamaño máximo de la imagen en dispositivos móviles */
     margin-left: 15px; /* Ajusta el margen izquierdo */
     margin-right: 15px; /* Ajusta el margen derecho */
   }
@@ -252,9 +252,8 @@ body {
     font-size: 40px; /* Cambia el tamaño del título */
   }
  .logovideojuego {
-   max-width: 300px; /* Tamaño máximo de la imagen en dispositivos móviles */
-   margin-left: 15px; /* Ajusta el margen izquierdo */
-   margin-right: 15px; /* Ajusta el margen derecho */
+   max-width: 150px; /* Tamaño máximo de la imagen en dispositivos móviles */
+  
   }
   .Menu {
     font-size: 18px; /* Cambia el tamaño del menú */
